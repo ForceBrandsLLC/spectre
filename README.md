@@ -71,7 +71,7 @@ You can compile your custom version of Spectre.css. Read [the documentation](htt
 - [Empty states](https://picturepan2.github.io/spectre/components.html#empty)
 - [Menus](https://picturepan2.github.io/spectre/components.html#menus)
 - [Navs](https://picturepan2.github.io/spectre/components.html#navs)
-- [Modals](https://picturepan2.github.io/spectre/components.html#modals)
+- [Modals](https://picturepan2.github.io/spectre/components.html)
 - [Pagination](https://picturepan2.github.io/spectre/components.html#pagination)
 - [Panels](https://picturepan2.github.io/spectre/components.html#panels)
 - [Popovers](https://picturepan2.github.io/spectre/components.html#popovers)
