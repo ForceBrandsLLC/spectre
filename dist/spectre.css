@@ -1822,7 +1822,7 @@ video.video-responsive::before {
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 640px) {
   .col-sm-12,
   .col-sm-11,
   .col-sm-10,
